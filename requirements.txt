@@ -1,0 +1,11 @@
+mcp>=2
+sympy
+python-dotenv
+langchain
+langchain-anthropic
+pytest
+pytest-asyncio
+chromadb
+langchain-chroma
+sentence-transformers
+langchain_huggingface
